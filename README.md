@@ -1,2 +1,2 @@
-# Python
-Aufgaben und Beispiele für Python
+# python
+Aufgaben und Beispiele für python
